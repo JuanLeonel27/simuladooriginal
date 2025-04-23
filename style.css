@@ -1,0 +1,25 @@
+table {width: 100%;
+height: 100vh;}
+
+#linha1 {height: 180px;}
+#linha2 {height: 200px;}
+#linha3 {height: 225px;}
+#linha4 {height: 80px;}
+#linha5 {height: 80px;}
+
+
+.fundocinza {background-color: #bbb}
+
+
+#tamanhologo { height: 10%; text-align: right;}
+
+.td1 {width: 23%; text-align: right;}
+.td3 {width: 18%;}
+.td4 {width: 23%; text-align: center;}
+.td5 {width: 18%;}
+.td7 {width: 3%;}
+.td8 {width: 23%; text-align: center;}
+.td9 {text-align: center;}
+
+
+.tamanhofoto {text-align: center;}
